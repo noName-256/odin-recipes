@@ -1,8 +1,39 @@
+*{
+    font-family: helvetica, sans-serif;
+}
 .portrait-img{
-    width: 700px;
+    width: 800px;
     height: auto;
 }
 .food-img{
     width: auto;
     height: 1000px;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 30px;
+}
+#spaghetti{
+    color: white;
+}
+#pizza{
+    color: red;
+}
+#couscous{
+    color: yellow;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
+h1{
+    color: darksalmon;
+    font-family: "Open Sans", lato, roboto, helvetica, sans-serif;
+}
+h2{
+    font-size: 30px;
+    color: #FFCCCB;
 }
